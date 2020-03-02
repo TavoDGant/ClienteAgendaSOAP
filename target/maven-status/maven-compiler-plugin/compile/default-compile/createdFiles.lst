@@ -1,0 +1,11 @@
+org\tdgames\agenda\service\ObjectFactory.class
+org\tdgames\agenda\service\CrearContacto.class
+org\tdgames\agenda\service\package-info.class
+org\tdgames\agenda\service\ObtenerContactosResponse.class
+org\cliente\AgendaCliente\ClienteAgendaDigital.class
+org\cliente\AgendaCliente\App.class
+org\tdgames\agenda\service\ContactoService.class
+org\tdgames\agenda\service\ObtenerContactos.class
+org\tdgames\agenda\service\CrearContactoResponse.class
+org\tdgames\agenda\service\Contacto.class
+org\tdgames\agenda\service\ContactoServiceImplService.class
